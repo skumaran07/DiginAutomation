@@ -1,0 +1,163 @@
+2017-06-02 01:07:12 INFO  TestBase:43-button is clicked[[ChromeDriver: chrome on XP (eaa72f31e245fb27637b50f95d9b75df)] -> xpath: .//*[@id='navigation']/ul[2]/li[2]/a]
+2017-06-02 01:07:12 INFO  TestBase:45-First name is enterkum
+2017-06-02 01:07:12 INFO  TestBase:47-middle name is entera
+2017-06-02 01:07:12 INFO  TestBase:49-Last name is enterran
+2017-06-02 01:07:12 INFO  TestBase:51-Email is enterkum01@gmail.com
+2017-06-02 01:07:12 INFO  TestBase:53-Password is enterTest@123
+2017-06-02 01:07:13 INFO  TestBase:55-ConfirmPassword is enterTest@123
+2017-06-02 01:12:05 INFO  TestBase:43-button is clicked[[ChromeDriver: chrome on XP (70816805673921031f51ab71fdf38a86)] -> xpath: .//*[@id='navigation']/ul[2]/li[2]/a]
+2017-06-02 01:12:05 INFO  TestBase:45-First name is enterkum
+2017-06-02 01:12:05 INFO  TestBase:47-middle name is entera
+2017-06-02 01:12:05 INFO  TestBase:49-Last name is enterran
+2017-06-02 01:12:05 INFO  TestBase:51-Email is enterkum01@gmail.com
+2017-06-02 01:12:05 INFO  TestBase:53-Password is enterTest@123
+2017-06-02 01:12:06 INFO  TestBase:55-ConfirmPassword is enterTest@123
+2017-06-02 01:17:34 INFO  TestBase:43-button is clicked[[ChromeDriver: chrome on XP (afa223902c9db402460dbd89f4d36ab7)] -> xpath: .//*[@id='navigation']/ul[2]/li[2]/a]
+2017-06-02 01:17:34 INFO  TestBase:45-First name is enterkum
+2017-06-02 01:17:34 INFO  TestBase:47-middle name is entera
+2017-06-02 01:17:34 INFO  TestBase:49-Last name is enterran
+2017-06-02 01:17:35 INFO  TestBase:51-Email is enterkum01@gmail.com
+2017-06-02 01:17:35 INFO  TestBase:53-Password is enterTest@123
+2017-06-02 01:17:35 INFO  TestBase:55-ConfirmPassword is enterTest@123
+2017-06-02 01:18:28 INFO  TestBase:43-button is clicked[[ChromeDriver: chrome on XP (6bb42762365c4202741fd7817717084b)] -> xpath: .//*[@id='navigation']/ul[2]/li[2]/a]
+2017-06-02 01:18:28 INFO  TestBase:45-First name is enterkum
+2017-06-02 01:18:28 INFO  TestBase:47-middle name is entera
+2017-06-02 01:18:29 INFO  TestBase:49-Last name is enterran
+2017-06-02 01:18:29 INFO  TestBase:51-Email is enterkum02@gmail.com
+2017-06-02 01:18:29 INFO  TestBase:53-Password is enterTest@123
+2017-06-02 01:18:29 INFO  TestBase:55-ConfirmPassword is enterTest@123
+2017-06-05 15:31:45 INFO  TestBase:43-button is clickedProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[2]/a'
+2017-06-05 15:38:15 INFO  TestBase:45-button is clickedProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[2]/a'
+2017-06-05 15:38:39 INFO  TestBase:47-Link redirect to register formProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/p[2]/a'
+2017-06-05 15:38:40 INFO  TestBase:49-First name is enterkum
+2017-06-05 15:38:40 INFO  TestBase:51-middle name is entera
+2017-06-05 15:38:40 INFO  TestBase:53-Last name is enterran
+2017-06-05 15:38:40 INFO  TestBase:55-Email is enterkum02@gmail.com
+2017-06-05 15:38:40 INFO  TestBase:57-Password is enterTest@123
+2017-06-05 15:38:40 INFO  TestBase:59-ConfirmPassword is enterTest@123
+2017-06-05 15:44:06 INFO  TestBase:45-button is clickedProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[2]/a'
+2017-06-05 15:44:34 INFO  TestBase:47-Link redirect to register formProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/p[2]/a'
+2017-06-05 15:44:34 INFO  TestBase:49-First name is enterkum
+2017-06-05 15:44:34 INFO  TestBase:51-middle name is entera
+2017-06-05 15:44:34 INFO  TestBase:53-Last name is enterran
+2017-06-05 15:44:34 INFO  TestBase:55-Email is enterkum02@gmail.com
+2017-06-05 15:44:34 INFO  TestBase:57-Password is enterTest@123
+2017-06-05 15:44:34 INFO  TestBase:59-ConfirmPassword is enterTest@123
+2017-06-06 14:52:48 INFO  TestBase:45-button is clickedProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[2]/a'
+2017-06-06 14:53:10 INFO  TestBase:47-Link redirect to register formProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/p[2]/a'
+2017-06-06 14:53:10 INFO  TestBase:49-First name is enterkum
+2017-06-06 14:53:10 INFO  TestBase:51-middle name is entera
+2017-06-06 14:53:10 INFO  TestBase:53-Last name is enterran
+2017-06-06 14:53:10 INFO  TestBase:55-Email is enterkum02@gmail.com
+2017-06-06 14:53:10 INFO  TestBase:57-Password is enterTest@123
+2017-06-06 14:53:10 INFO  TestBase:59-ConfirmPassword is enterTest@123
+2017-06-15 00:32:16 INFO  TestBase:82-Click the login buttonProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[1]/i/a'
+2017-06-15 00:32:17 INFO  TestBase:84-Username entered into the textbox[[ChromeDriver: chrome on XP (1d25120711609bfd97e47ac693f6bf72)] -> xpath: .//*[@id='Email']]
+2017-06-15 00:35:09 INFO  TestBase:82-Click the login buttonProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[1]/i/a'
+2017-06-15 00:35:09 INFO  TestBase:84-Username entered into the textbox[[ChromeDriver: chrome on XP (181cba52d033b94c379a161ea63a62cd)] -> xpath: .//*[@id='Email']]
+2017-06-15 00:35:09 INFO  TestBase:86-Password Entered into the textbox[[ChromeDriver: chrome on XP (181cba52d033b94c379a161ea63a62cd)] -> xpath: .//*[@id='Password']]
+2017-06-15 00:35:38 INFO  TestBase:88-Click the buttonsProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/div[2]/div/button'
+2017-06-15 00:47:09 INFO  TestBase:82-Click the login buttonProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[1]/i/a'
+2017-06-15 00:47:09 INFO  TestBase:84-Username entered into the textbox[[ChromeDriver: chrome on XP (e5f231db36a992f9702344ff9d1fd27a)] -> xpath: .//*[@id='Email']]
+2017-06-15 00:47:09 INFO  TestBase:86-Password Entered into the textbox[[ChromeDriver: chrome on XP (e5f231db36a992f9702344ff9d1fd27a)] -> xpath: .//*[@id='Password']]
+2017-06-15 00:47:34 INFO  TestBase:88-Click the buttonsProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/div[2]/div/button'
+2017-06-15 00:48:55 INFO  TestBase:82-Click the login buttonProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[1]/i/a'
+2017-06-15 00:48:55 INFO  TestBase:84-Username entered into the textbox[[ChromeDriver: chrome on XP (ec9d6addcb4fc76a3aaebaef42ab1f02)] -> xpath: .//*[@id='Email']]
+2017-06-15 00:48:55 INFO  TestBase:86-Password Entered into the textbox[[ChromeDriver: chrome on XP (ec9d6addcb4fc76a3aaebaef42ab1f02)] -> xpath: .//*[@id='Password']]
+2017-06-15 00:49:19 INFO  TestBase:88-Click the buttonsProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/div[2]/div/button'
+2017-06-15 00:53:55 INFO  TestBase:90-Click the login buttonProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[1]/i/a'
+2017-06-15 00:53:55 INFO  TestBase:92-Username entered into the textbox[[ChromeDriver: chrome on XP (af1e9b1bfee8b9b1fafc406e3fb2f8d4)] -> xpath: .//*[@id='Email']]
+2017-06-15 00:53:56 INFO  TestBase:94-Password Entered into the textbox[[ChromeDriver: chrome on XP (af1e9b1bfee8b9b1fafc406e3fb2f8d4)] -> xpath: .//*[@id='Password']]
+2017-06-15 00:54:20 INFO  TestBase:96-Click the buttonsProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/div[2]/div/button'
+2017-06-22 23:45:08 INFO  TestBase:93-Click the login buttonProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[1]/i/a'
+2017-06-22 23:45:09 INFO  TestBase:95-Username entered into the textbox[[ChromeDriver: chrome on XP (fdeb4decfd43b943db94d2193731799b)] -> xpath: .//*[@id='Email']]
+2017-06-22 23:45:09 INFO  TestBase:97-Password Entered into the textbox[[ChromeDriver: chrome on XP (fdeb4decfd43b943db94d2193731799b)] -> xpath: .//*[@id='Password']]
+2017-06-22 23:45:37 INFO  TestBase:99-Click the buttonsProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/div[2]/div/button'
+2017-06-22 23:49:40 INFO  TestBase:93-Click the login buttonProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[1]/i/a'
+2017-06-22 23:49:40 INFO  TestBase:95-Username entered into the textbox[[ChromeDriver: chrome on XP (a556a7283c542cc300c8e1f505f0b729)] -> xpath: .//*[@id='Email']]
+2017-06-22 23:49:40 INFO  TestBase:97-Password Entered into the textbox[[ChromeDriver: chrome on XP (a556a7283c542cc300c8e1f505f0b729)] -> xpath: .//*[@id='Password']]
+2017-06-22 23:50:05 INFO  TestBase:99-Click the buttonsProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/div[2]/div/button'
+2017-06-23 00:02:59 INFO  TestBase:93-Click the login buttonProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[1]/i/a'
+2017-06-23 00:02:59 INFO  TestBase:95-Username entered into the textbox[[ChromeDriver: chrome on XP (759b28178172ac5fb420d478fc7f28f1)] -> xpath: .//*[@id='Email']]
+2017-06-23 00:02:59 INFO  TestBase:97-Password Entered into the textbox[[ChromeDriver: chrome on XP (759b28178172ac5fb420d478fc7f28f1)] -> xpath: .//*[@id='Password']]
+2017-06-23 00:03:24 INFO  TestBase:99-Click the buttonsProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/div[2]/div/button'
+2017-06-23 00:10:34 INFO  TestBase:93-Click the login buttonProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[1]/i/a'
+2017-06-23 00:10:35 INFO  TestBase:95-Username entered into the textbox[[ChromeDriver: chrome on XP (738861b490317f59d4cbc1992c76dbb7)] -> xpath: .//*[@id='Email']]
+2017-06-23 00:10:35 INFO  TestBase:97-Password Entered into the textbox[[ChromeDriver: chrome on XP (738861b490317f59d4cbc1992c76dbb7)] -> xpath: .//*[@id='Password']]
+2017-06-23 00:10:59 INFO  TestBase:99-Click the buttonsProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/div[2]/div/button'
+2017-06-23 00:11:01 INFO  TestBase:116-Click the logout button[[ChromeDriver: chrome on XP (738861b490317f59d4cbc1992c76dbb7)] -> xpath: //*[@id='navigation']/ul[2]/li/a]
+2017-06-23 00:11:23 INFO  TestBase:93-Click the login buttonProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[1]/i/a'
+2017-06-23 00:11:23 INFO  TestBase:95-Username entered into the textbox[[ChromeDriver: chrome on XP (738861b490317f59d4cbc1992c76dbb7)] -> xpath: .//*[@id='Email']]
+2017-06-23 00:11:23 INFO  TestBase:97-Password Entered into the textbox[[ChromeDriver: chrome on XP (738861b490317f59d4cbc1992c76dbb7)] -> xpath: .//*[@id='Password']]
+2017-06-23 00:11:47 INFO  TestBase:99-Click the buttonsProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/div[2]/div/button'
+2017-06-23 00:11:49 INFO  TestBase:116-Click the logout button[[ChromeDriver: chrome on XP (738861b490317f59d4cbc1992c76dbb7)] -> xpath: //*[@id='navigation']/ul[2]/li/a]
+2017-06-23 00:12:10 INFO  TestBase:93-Click the login buttonProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[1]/i/a'
+2017-06-23 00:12:10 INFO  TestBase:95-Username entered into the textbox[[ChromeDriver: chrome on XP (738861b490317f59d4cbc1992c76dbb7)] -> xpath: .//*[@id='Email']]
+2017-06-23 00:12:10 INFO  TestBase:97-Password Entered into the textbox[[ChromeDriver: chrome on XP (738861b490317f59d4cbc1992c76dbb7)] -> xpath: .//*[@id='Password']]
+2017-06-23 00:12:34 INFO  TestBase:99-Click the buttonsProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/div[2]/div/button'
+2017-06-23 00:12:37 INFO  TestBase:116-Click the logout button[[ChromeDriver: chrome on XP (738861b490317f59d4cbc1992c76dbb7)] -> xpath: //*[@id='navigation']/ul[2]/li/a]
+2017-06-23 00:12:58 INFO  TestBase:93-Click the login buttonProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[1]/i/a'
+2017-06-23 00:12:58 INFO  TestBase:95-Username entered into the textbox[[ChromeDriver: chrome on XP (738861b490317f59d4cbc1992c76dbb7)] -> xpath: .//*[@id='Email']]
+2017-06-23 00:12:58 INFO  TestBase:97-Password Entered into the textbox[[ChromeDriver: chrome on XP (738861b490317f59d4cbc1992c76dbb7)] -> xpath: .//*[@id='Password']]
+2017-06-23 00:13:22 INFO  TestBase:99-Click the buttonsProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/div[2]/div/button'
+2017-06-23 00:13:24 INFO  TestBase:116-Click the logout button[[ChromeDriver: chrome on XP (738861b490317f59d4cbc1992c76dbb7)] -> xpath: //*[@id='navigation']/ul[2]/li/a]
+2017-06-30 18:39:25 INFO  TestBase:93-Click the login buttonProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[1]/i/a'
+2017-06-30 18:39:26 INFO  TestBase:95-Username entered into the textbox[[ChromeDriver: chrome on XP (6dc6d661228c3b64c9ee0e151bd83bfc)] -> xpath: .//*[@id='Email']]
+2017-06-30 18:39:26 INFO  TestBase:97-Password Entered into the textbox[[ChromeDriver: chrome on XP (6dc6d661228c3b64c9ee0e151bd83bfc)] -> xpath: .//*[@id='Password']]
+2017-06-30 18:39:56 INFO  TestBase:99-Click the buttonsProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/div[2]/div/button'
+2017-06-30 18:39:58 INFO  TestBase:116-Click the logout button[[ChromeDriver: chrome on XP (6dc6d661228c3b64c9ee0e151bd83bfc)] -> xpath: //*[@id='navigation']/ul[2]/li/a]
+2017-06-30 18:40:20 INFO  TestBase:93-Click the login buttonProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[1]/i/a'
+2017-06-30 18:40:20 INFO  TestBase:95-Username entered into the textbox[[ChromeDriver: chrome on XP (6dc6d661228c3b64c9ee0e151bd83bfc)] -> xpath: .//*[@id='Email']]
+2017-06-30 18:40:20 INFO  TestBase:97-Password Entered into the textbox[[ChromeDriver: chrome on XP (6dc6d661228c3b64c9ee0e151bd83bfc)] -> xpath: .//*[@id='Password']]
+2017-06-30 18:40:45 INFO  TestBase:99-Click the buttonsProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/div[2]/div/button'
+2017-06-30 18:40:49 INFO  TestBase:116-Click the logout button[[ChromeDriver: chrome on XP (6dc6d661228c3b64c9ee0e151bd83bfc)] -> xpath: //*[@id='navigation']/ul[2]/li/a]
+2017-06-30 18:41:10 INFO  TestBase:93-Click the login buttonProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[1]/i/a'
+2017-06-30 18:41:10 INFO  TestBase:95-Username entered into the textbox[[ChromeDriver: chrome on XP (6dc6d661228c3b64c9ee0e151bd83bfc)] -> xpath: .//*[@id='Email']]
+2017-06-30 18:41:10 INFO  TestBase:97-Password Entered into the textbox[[ChromeDriver: chrome on XP (6dc6d661228c3b64c9ee0e151bd83bfc)] -> xpath: .//*[@id='Password']]
+2017-06-30 18:41:38 INFO  TestBase:99-Click the buttonsProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/div[2]/div/button'
+2017-06-30 18:41:45 INFO  TestBase:116-Click the logout button[[ChromeDriver: chrome on XP (6dc6d661228c3b64c9ee0e151bd83bfc)] -> xpath: //*[@id='navigation']/ul[2]/li/a]
+2017-06-30 18:42:06 INFO  TestBase:93-Click the login buttonProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[1]/i/a'
+2017-06-30 18:42:06 INFO  TestBase:95-Username entered into the textbox[[ChromeDriver: chrome on XP (6dc6d661228c3b64c9ee0e151bd83bfc)] -> xpath: .//*[@id='Email']]
+2017-06-30 18:42:07 INFO  TestBase:97-Password Entered into the textbox[[ChromeDriver: chrome on XP (6dc6d661228c3b64c9ee0e151bd83bfc)] -> xpath: .//*[@id='Password']]
+2017-06-30 18:42:35 INFO  TestBase:99-Click the buttonsProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/div[2]/div/button'
+2017-06-30 18:42:38 INFO  TestBase:116-Click the logout button[[ChromeDriver: chrome on XP (6dc6d661228c3b64c9ee0e151bd83bfc)] -> xpath: //*[@id='navigation']/ul[2]/li/a]
+2017-07-05 18:53:45 INFO  TestBase:93-Click the login buttonProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[1]/i/a'
+2017-07-05 18:53:46 INFO  TestBase:95-Username entered into the textbox[[ChromeDriver: chrome on XP (34ec54a1e6923f40a09cf8c06ed017ee)] -> xpath: .//*[@id='Email']]
+2017-07-05 18:53:46 INFO  TestBase:97-Password Entered into the textbox[[ChromeDriver: chrome on XP (34ec54a1e6923f40a09cf8c06ed017ee)] -> xpath: .//*[@id='Password']]
+2017-07-05 18:54:21 INFO  TestBase:99-Click the buttonsProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/div[2]/div/button'
+2017-07-05 18:54:29 INFO  TestBase:116-Click the logout button[[ChromeDriver: chrome on XP (34ec54a1e6923f40a09cf8c06ed017ee)] -> xpath: //*[@id='navigation']/ul[2]/li/a]
+2017-07-05 18:54:51 INFO  TestBase:93-Click the login buttonProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[1]/i/a'
+2017-07-05 18:54:52 INFO  TestBase:95-Username entered into the textbox[[ChromeDriver: chrome on XP (34ec54a1e6923f40a09cf8c06ed017ee)] -> xpath: .//*[@id='Email']]
+2017-07-05 18:54:52 INFO  TestBase:97-Password Entered into the textbox[[ChromeDriver: chrome on XP (34ec54a1e6923f40a09cf8c06ed017ee)] -> xpath: .//*[@id='Password']]
+2017-07-05 18:55:22 INFO  TestBase:99-Click the buttonsProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/div[2]/div/button'
+2017-07-05 18:55:26 INFO  TestBase:116-Click the logout button[[ChromeDriver: chrome on XP (34ec54a1e6923f40a09cf8c06ed017ee)] -> xpath: //*[@id='navigation']/ul[2]/li/a]
+2017-07-05 18:55:49 INFO  TestBase:93-Click the login buttonProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[1]/i/a'
+2017-07-05 18:55:49 INFO  TestBase:95-Username entered into the textbox[[ChromeDriver: chrome on XP (34ec54a1e6923f40a09cf8c06ed017ee)] -> xpath: .//*[@id='Email']]
+2017-07-05 18:55:49 INFO  TestBase:97-Password Entered into the textbox[[ChromeDriver: chrome on XP (34ec54a1e6923f40a09cf8c06ed017ee)] -> xpath: .//*[@id='Password']]
+2017-07-05 18:56:21 INFO  TestBase:99-Click the buttonsProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/div[2]/div/button'
+2017-07-05 18:56:26 INFO  TestBase:116-Click the logout button[[ChromeDriver: chrome on XP (34ec54a1e6923f40a09cf8c06ed017ee)] -> xpath: //*[@id='navigation']/ul[2]/li/a]
+2017-07-05 18:56:47 INFO  TestBase:93-Click the login buttonProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[1]/i/a'
+2017-07-05 18:56:47 INFO  TestBase:95-Username entered into the textbox[[ChromeDriver: chrome on XP (34ec54a1e6923f40a09cf8c06ed017ee)] -> xpath: .//*[@id='Email']]
+2017-07-05 18:56:48 INFO  TestBase:97-Password Entered into the textbox[[ChromeDriver: chrome on XP (34ec54a1e6923f40a09cf8c06ed017ee)] -> xpath: .//*[@id='Password']]
+2017-07-05 18:57:23 INFO  TestBase:99-Click the buttonsProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/div[2]/div/button'
+2017-07-05 18:57:28 INFO  TestBase:116-Click the logout button[[ChromeDriver: chrome on XP (34ec54a1e6923f40a09cf8c06ed017ee)] -> xpath: //*[@id='navigation']/ul[2]/li/a]
+2017-09-14 14:52:59 INFO  TestBase:93-Click the login buttonProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[1]/i/a'
+2017-09-14 14:52:59 INFO  TestBase:95-Username entered into the textbox[[ChromeDriver: chrome on XP (b870c579c326da34dc19bf7b9abfc369)] -> xpath: .//*[@id='Email']]
+2017-09-14 14:53:00 INFO  TestBase:97-Password Entered into the textbox[[ChromeDriver: chrome on XP (b870c579c326da34dc19bf7b9abfc369)] -> xpath: .//*[@id='Password']]
+2017-09-14 14:53:32 INFO  TestBase:99-Click the buttonsProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/div[2]/div/button'
+2017-09-14 14:53:36 INFO  TestBase:116-Click the logout button[[ChromeDriver: chrome on XP (b870c579c326da34dc19bf7b9abfc369)] -> xpath: //*[@id='navigation']/ul[2]/li/a]
+2017-09-14 14:53:57 INFO  TestBase:93-Click the login buttonProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[1]/i/a'
+2017-09-14 14:53:58 INFO  TestBase:95-Username entered into the textbox[[ChromeDriver: chrome on XP (b870c579c326da34dc19bf7b9abfc369)] -> xpath: .//*[@id='Email']]
+2017-09-14 14:53:58 INFO  TestBase:97-Password Entered into the textbox[[ChromeDriver: chrome on XP (b870c579c326da34dc19bf7b9abfc369)] -> xpath: .//*[@id='Password']]
+2017-09-14 14:54:33 INFO  TestBase:99-Click the buttonsProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/div[2]/div/button'
+2017-09-14 14:54:37 INFO  TestBase:116-Click the logout button[[ChromeDriver: chrome on XP (b870c579c326da34dc19bf7b9abfc369)] -> xpath: //*[@id='navigation']/ul[2]/li/a]
+2017-09-14 14:54:58 INFO  TestBase:93-Click the login buttonProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[1]/i/a'
+2017-09-14 14:54:58 INFO  TestBase:95-Username entered into the textbox[[ChromeDriver: chrome on XP (b870c579c326da34dc19bf7b9abfc369)] -> xpath: .//*[@id='Email']]
+2017-09-14 14:54:59 INFO  TestBase:97-Password Entered into the textbox[[ChromeDriver: chrome on XP (b870c579c326da34dc19bf7b9abfc369)] -> xpath: .//*[@id='Password']]
+2017-09-14 14:55:24 INFO  TestBase:99-Click the buttonsProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/div[2]/div/button'
+2017-09-14 14:55:27 INFO  TestBase:116-Click the logout button[[ChromeDriver: chrome on XP (b870c579c326da34dc19bf7b9abfc369)] -> xpath: //*[@id='navigation']/ul[2]/li/a]
+2017-09-14 14:55:49 INFO  TestBase:93-Click the login buttonProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='navigation']/ul[2]/li[1]/i/a'
+2017-09-14 14:55:49 INFO  TestBase:95-Username entered into the textbox[[ChromeDriver: chrome on XP (b870c579c326da34dc19bf7b9abfc369)] -> xpath: .//*[@id='Email']]
+2017-09-14 14:55:49 INFO  TestBase:97-Password Entered into the textbox[[ChromeDriver: chrome on XP (b870c579c326da34dc19bf7b9abfc369)] -> xpath: .//*[@id='Password']]
+2017-09-14 14:56:14 INFO  TestBase:99-Click the buttonsProxy element for: DefaultElementLocator 'By.xpath: .//*[@id='wrapper']/div/div/div[1]/form/div/div[2]/div/button'
+2017-09-14 14:56:18 INFO  TestBase:116-Click the logout button[[ChromeDriver: chrome on XP (b870c579c326da34dc19bf7b9abfc369)] -> xpath: //*[@id='navigation']/ul[2]/li/a]

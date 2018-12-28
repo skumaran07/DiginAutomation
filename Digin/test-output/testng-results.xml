@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28939" started-at="2017-10-13T07:10:38Z" finished-at="2017-10-13T07:11:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28939" started-at="2017-10-13T07:10:38Z" finished-at="2017-10-13T07:11:07Z">
+      <class name="com.test.Automation.sel.Digin.Registration">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.Automation.sel.Digin.Registration@78e67e0a]" name="setup" is-config="true" duration-ms="8076" started-at="2017-10-13T12:40:38Z" finished-at="2017-10-13T12:40:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.Automation.sel.Digin.Registration@78e67e0a]" name="beforeMethod" is-config="true" duration-ms="4" started-at="2017-10-13T12:40:46Z" finished-at="2017-10-13T12:40:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.Automation.sel.Digin.Registration.registration()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="registration()[pri:0, instance:com.test.Automation.sel.Digin.Registration@78e67e0a]" name="registration" duration-ms="20105" started-at="2017-10-13T12:40:46Z" finished-at="2017-10-13T12:41:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registration -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.Automation.sel.Digin.Registration@78e67e0a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-10-13T12:41:06Z" finished-at="2017-10-13T12:41:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=registration status=SUCCESS method=Registration.registration()[pri:0, instance:com.test.Automation.sel.Digin.Registration@78e67e0a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.Automation.sel.Digin.Registration@78e67e0a]" name="endTest" is-config="true" duration-ms="676" started-at="2017-10-13T12:41:06Z" finished-at="2017-10-13T12:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="end()[pri:0, instance:com.test.Automation.sel.Digin.Registration@78e67e0a]" name="end" is-config="true" duration-ms="45" started-at="2017-10-13T12:41:07Z" finished-at="2017-10-13T12:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.test.Automation.sel.Digin.Registration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

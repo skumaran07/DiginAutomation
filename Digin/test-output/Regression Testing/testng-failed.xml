@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression Testing]">
+  <test name="Registration(failed)">
+    <classes>
+      <class name="com.test.Automation.sel.Digin.Registration">
+        <methods>
+          <include name="registration"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.test.Automation.sel.Digin.Registration -->
+    </classes>
+  </test> <!-- Registration(failed) -->
+</suite> <!-- Failed suite [Regression Testing] -->
